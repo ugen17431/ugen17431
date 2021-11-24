@@ -1,3 +1,3 @@
-<h1>Hi Coder's Ugenthar V Here</h1>
-<p> Passionate about creating new things both software and hardware</p>
-<p> My repo have some projects which is built by learning things</p>
+
+<p> Passionate about learning & creating new things in both  <software/>  and hardware </p>
+<p>Profile Link: https://ugen17431.github.io/ugenthar_v/</p>
